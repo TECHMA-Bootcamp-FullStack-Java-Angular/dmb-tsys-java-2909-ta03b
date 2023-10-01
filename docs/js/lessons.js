@@ -48,7 +48,7 @@ export const lessons = [
         <li>Sourcetree.</li>
         <li>Git Kraken.</li>`, 
         urlCode: 'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2909-ta03b/blob/main/README.md',
-        urlPG: 'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2909-ta03b/blob/main/docs/img/screenshot.png'
+        urlPG: 'https://raw.githubusercontent.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2909-ta03b/main/docs/img/screenshot.png'
       },
     ]
   },
