@@ -43,12 +43,12 @@ export const lessons = [
         numExercise: 5,
         title: '',
         description:`
-        <li>Muestra un pantallazo con la instalacion de una de estas aplicaciones:</li>
+        <p>Muestra un pantallazo con la instalacion de una de estas aplicaciones:</p>
         <li>GitHub Desktop.</li>
         <li>Sourcetree.</li>
         <li>Git Kraken.</li>`, 
         urlCode: 'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2909-ta03b/blob/main/README.md',
-        urlPG: 'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2909-ta03b/blob/main/screenshot.png'
+        urlPG: 'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2909-ta03b/blob/main/docs/img/screenshot.png'
       },
     ]
   },

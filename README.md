@@ -6,16 +6,7 @@
  Este repositorio contiene las tareas del Bootcamp 👨‍💻
 
 
-Puedes acceder a cada uno de los ejercicios haciendo clic en los enlaces siguientes:
+Ahora ya puedes acceder a cada uno de los ejercicios, con su enunciado haciendo clic en los enlaces siguientes:
 
+- [INDEX 🚀](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-java-2909-ta03b/)
 
-https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-java-2909-ta03b/
-
-- [Ejercicio 1](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2909-ta03b/blob/main/src/com/tmbs/ta02/ClasseInteger1.java) -> Diferentes Constructores ⚒️
-
-- [Ejercicio 2](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2909-ta03b/blob/main/src/com/tmbs/ta02/ComentarioLinea.java) -> Comentario // 📝
-
-- [Ejercicio 3](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2909-ta03b/blob/main/src/com/tmbs/ta02/ComentarioVariasLineas.java) -> Comentario en varias lineas /* ... */ 🗒️ 
-
-- [Ejercicio 4](https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2909-ta03b/blob/main/src/com/tmbs/ta02/HolaMundo.java) -> Hola Mundo 🌎
-  
