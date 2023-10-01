@@ -54,11 +54,7 @@ lessons[0].exercise.forEach((exercise) => {
 next.addEventListener('click', () => {
   if (numLessons < getLessons(0).exercise.length - 1) {
     assignExerciseValues(++numLessons);
-
-    if (numLessons === 4) {
-      urlCode.textContent = 'Ver Repositorio';
-      urlPG.textContent = 'Ver image';
-  }}
+  }
 });
 
 previous.addEventListener('click', () => {
