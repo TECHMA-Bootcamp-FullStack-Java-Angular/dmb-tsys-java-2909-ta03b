@@ -96,10 +96,16 @@ a {
   }
 
   header {
-    height: 80%;
+    height: 72%;
+    margin-bottom: 0;
     display: flex !important;
     align-items: center !important;
     justify-content: center !important;
+  }
+  main{
+    .card{
+      height:auto;
+    }
   }
 
   li {
@@ -121,5 +127,16 @@ a {
   .col-3 {
     width: 100%;
     justify-content: center !important;
+  }
+  footer{
+    position:-webkit-sticky;
+  }
+}
+
+@media (max-width: 360px) {
+  main{
+    .card{
+      margin-top: 30px !important;
+    }
   }
 }
