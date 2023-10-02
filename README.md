@@ -6,7 +6,7 @@
  Este repositorio contiene las tareas del Bootcamp 👨‍💻
 
 
-Ahora ya puedes acceder a cada uno de los ejercicios, con su enunciado haciendo clic en los enlaces siguientes:
+Ahora ya puedes acceder a cada uno de los ejercicios, con su enunciado haciendo clic en el siguiente enlaces:
 
 - [UNIDAD 1](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-java-2909-ta03b/)
 
