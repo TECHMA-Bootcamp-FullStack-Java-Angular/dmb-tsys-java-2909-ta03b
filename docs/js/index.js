@@ -67,7 +67,6 @@ next.addEventListener('click', () => {
 });
 
 
-
 previous.addEventListener('click', () => {
   if (numLessons > 0) {
     assignExerciseValues(--numLessons);
