@@ -50,19 +50,39 @@ lessons[0].exercise.forEach((exercise) => {
   unit1.appendChild(dropdownItem);
 });
 
+
+const originUrlCode = urlCode.innerHTML
+const originUrlPG = urlPG.innerHTML
+
 // Añade controladores de eventos a los botones siguiente y anterior
 next.addEventListener('click', () => {
   if (numLessons < getLessons(0).exercise.length - 1) {
     assignExerciseValues(++numLessons);
+
+    if (numLessons === 4) {
+      urlPG.textContent = 'Ver captura';
+      urlCode.style.display = "none";
+    } 
   }
 });
+
+
 
 previous.addEventListener('click', () => {
   if (numLessons > 0) {
     assignExerciseValues(--numLessons);
+    if (numLessons !== 4) {
+
+      urlCode.style.display = "inline";
+      urlPG.innerHTML= originUrlPG
+    }
   }
 });
 
 // Asigna los valores del primer ejercicio a los elementos DOM
 assignExerciseValues(numLessons);
+
+
+
+
 
