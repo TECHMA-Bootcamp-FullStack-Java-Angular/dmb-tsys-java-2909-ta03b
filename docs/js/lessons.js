@@ -3,7 +3,7 @@ export const lessons = [
     numLessons: 1,
     issue: 'Java SE',
     day: 3,
-    msg: '<i> Completamente entusiamado </i> 🤩',
+    msg: '<i> Completamente entusiasmado </i> 🤩',
     myProgress: '🥚',
 
     exercise: [
@@ -21,7 +21,7 @@ export const lessons = [
       {
         numExercise: 2,
         title: '',
-        description: 'Genera un comentario en linea //🧐',
+        description: 'Genera un comentario en linea // ✍️',
         urlCode: 'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2909-ta03b/blob/main/src/com/tmbs/ta02/ComentarioLinea.java',
         urlPG: 'https://www.jdoodle.com/iembed/v0/Njb'
       },
